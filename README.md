@@ -1,2 +1,1 @@
-Two website templates for demo purposes. 
-
+This repository contain two demo website templates.
