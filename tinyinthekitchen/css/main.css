@@ -1,35 +1,3 @@
-/*------------------------------------------------------------------
-[Master Stylesheet]
-
-Project:    Shade
-Version:    1.0
-Last change:    17/10/2020 [fixed Float bug, vf]
-Assigned to:    Grayic 
--------------------------------------------------------------------*/
-/*********** CSS TABLE OF CONTENTS *******************
-
-|--- 01.Component -> { Header }
-|--- 01.Component -> { Menu }
-|--- 01.Component -> { Button }
-|--- 01.Component -> { pricing }
-|--- 01.Component -> { shapes }
-|--- 02.Utility -> { Border }
-|--- 02.Utility -> { Color }
-|--- 02.Utility -> { Common }
-|--- 02.Utility -> { Flex }
-|--- 02.Utility -> { Grid }
-|--- 02.Utility -> { Positioning }
-|--- 02.Utility -> { Shadows }
-|--- 02.Utility -> { Size }
-|--- 02.Utility -> { Typography }
-|--- 03.Theme Utility -> { Accordion }
-|--- 03.Theme Utility -> { Hovers }
-|--- 03.Theme Utility -> { Rotate }
-|--- 03.Theme Utility -> { Size }
-|--- 03.Theme Utility -> { Typography }
-|--- THEME CUSTOM STYLES
-
-******************************************************/
 @import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Gothic+A1:wght@800&amp;display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik&amp;display=swap");
@@ -12696,5 +12664,6 @@ ul.slick-dots li button {
 .font-size-base {
   font-size: 16px;
 }
+
 
 /*# sourceMappingURL=maps/main.css.map */
